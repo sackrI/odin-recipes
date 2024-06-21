@@ -1,0 +1,36 @@
+body {
+    background-color: #fff;
+}
+
+h1 {
+    color: lightsalmon;
+    text-align: center;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
+p {
+    color: brown;
+    font-size: large;
+    text-align: center;
+}
+
+.float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+}
+
+.float-child {
+    width: 45%;
+    padding: 20px;
+    float: left;
+}
+
+.float-child:hover {
+    background-color: rgba(12, 12, 140, 0.796);
+    color: antiquewhite;
+}
+
