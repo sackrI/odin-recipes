@@ -11,7 +11,8 @@ h1 {
 }
 
 ul {
-    padding-left: 0px;
+    list-style: none;
+    /* padding-left: 0px; */
 }
 
 li {
